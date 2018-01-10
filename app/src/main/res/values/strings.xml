@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android20.3</string>
+    <string name="delete_contact">Delete</string>
+    <string name="cancel_contact">Cancel</string>
+</resources>
